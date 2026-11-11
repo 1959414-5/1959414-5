@@ -44,7 +44,7 @@ Atualmente, desenvolvo projetos com Power BI, SQL e Python, incluindo dashboards
 | Projeto | O que você encontra |
 |---|---|
 | [ERP Industrial Analytics](https://1959414-5.github.io/meu-portfolio/projeto-erp-industrial-analytics.html) | Projeto de análise de dados aplicado a um cenário industrial, com MySQL, SQL, modelagem e consultas analíticas. |
-| [Automação de Relatórios](https://1959414-5.github.io/meu-portfolio/projeto-automacao-relatorios.html) | Automação em Python para reduzir tarefas manuais na rotina de relatórios e apoiar a integração com ERP e Google Sheets. |
+| [Automação de Relatórios](https://1959414-5.github.io/meu-portfolio/projeto-automacao-relatorios.html) · [Código demonstrativo](https://github.com/1959414-5/automacao-relatorios-python) | Automação desktop em Python, calendário de dias úteis e documentação da solução, com código corporativo preservado. |
 | [Portfólio completo](https://1959414-5.github.io/meu-portfolio/) | Estudos de caso, dashboards, soluções e detalhes dos projetos desenvolvidos. |
 
 ## Como gosto de trabalhar
