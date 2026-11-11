@@ -29,7 +29,7 @@ Atualmente, desenvolvo projetos com Power BI, SQL e Python, incluindo dashboards
 <p>
   <img src="https://img.shields.io/badge/Power_BI-35263d?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
   <img src="https://img.shields.io/badge/DAX-35263d?style=for-the-badge&logo=powerbi&logoColor=f15aa7" alt="DAX" />
-  <img src="https://img.shields.io/badge/Power_Query-35263d?style=for-the-badge&logo=microsoftpowerpoint&logoColor=fbf4fa" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Power_Query-35263d?style=for-the-badge&logo=microsoft&logoColor=fbf4fa" alt="Power Query" />
   <img src="https://img.shields.io/badge/SQL-35263d?style=for-the-badge&logo=mysql&logoColor=fbf4fa" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-35263d?style=for-the-badge&logo=mysql&logoColor=fbf4fa" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-35263d?style=for-the-badge&logo=python&logoColor=fbf4fa" alt="Python" />
