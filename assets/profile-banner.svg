@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Bárbara Cabral Paschoalin — Data Analytics &amp; Business Intelligence</title>
+  <desc id="desc">Banner em ameixa escuro e rosa, com elementos gráficos de análise de dados.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150f18"/>
+      <stop offset="0.58" stop-color="#221927"/>
+      <stop offset="1" stop-color="#35263d"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f15aa7"/>
+      <stop offset="1" stop-color="#dc3f8d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#f15aa7" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#f15aa7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#fbf4fa" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="90" rx="300" ry="250" fill="url(#glow)"/>
+  <rect x="36" y="34" width="6" height="292" rx="3" fill="url(#pink)"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="78" y="105" fill="#bbaebb" font-size="17" font-weight="700" letter-spacing="4">PORTFÓLIO • GITHUB</text>
+    <text x="76" y="174" fill="#fbf4fa" font-size="48" font-weight="750" letter-spacing="-1.8">Bárbara Cabral Paschoalin</text>
+    <rect x="80" y="201" width="74" height="4" rx="2" fill="url(#pink)"/>
+    <text x="78" y="246" fill="#fbf4fa" font-size="22" font-weight="650">ANÁLISE DE DADOS  ·  BUSINESS INTELLIGENCE</text>
+    <text x="78" y="282" fill="#bbaebb" font-size="17" font-weight="500">Power BI  /  SQL  /  Python  /  Automação</text>
+    <g transform="translate(820 65)">
+      <rect x="0" y="0" width="312" height="226" rx="20" fill="#150f18" fill-opacity=".56" stroke="#fbf4fa" stroke-opacity=".12"/>
+      <path d="M30 175H280M30 130H280M30 85H280M30 40H280" stroke="#fbf4fa" stroke-opacity=".09" stroke-dasharray="4 7"/>
+      <path d="M36 165L82 139L120 151L163 99L205 113L263 52" fill="none" stroke="url(#pink)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="#f15aa7" stroke="#150f18" stroke-width="3">
+        <circle cx="36" cy="165" r="6"/><circle cx="82" cy="139" r="6"/><circle cx="120" cy="151" r="6"/><circle cx="163" cy="99" r="6"/><circle cx="205" cy="113" r="6"/><circle cx="263" cy="52" r="6"/>
+      </g>
+      <g fill="#f15aa7" fill-opacity=".18">
+        <rect x="37" y="190" width="22" height="14" rx="4"/><rect x="69" y="178" width="22" height="26" rx="4"/><rect x="101" y="165" width="22" height="39" rx="4"/><rect x="133" y="151" width="22" height="53" rx="4"/>
+      </g>
+      <text x="30" y="28" fill="#bbaebb" font-size="10" font-weight="700" letter-spacing="2">DATA INSIGHTS</text>
+    </g>
+    <text x="1120" y="326" fill="#bbaebb" fill-opacity=".7" font-size="12" text-anchor="end" letter-spacing="2">BUILD · ANALYZE · IMPROVE</text>
+  </g>
+</svg>
